@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.myframe"
+    android:versionCode="222"
+    android:versionName="2.227" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="14" />
+
+    <application android:allowBackup="true" />
+
+    <meta-data
+        android:name="UMENG_APPKEY"
+        android:value="56ed37ace0f55a6be10001fe" >
+    </meta-data>
+    <meta-data
+        android:name="UMENG_CHANNEL"
+        android:value="UMENG_CHANNEL" />
+
+</manifest>

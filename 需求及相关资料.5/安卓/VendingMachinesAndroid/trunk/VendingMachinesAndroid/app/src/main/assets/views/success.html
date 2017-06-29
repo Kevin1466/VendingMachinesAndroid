@@ -1,0 +1,25 @@
+<div class="fullscreen" ng-controller="SuccessController as vm">
+    <table class="success-module fullscreen" ourpalm-touch-delay="vm.delay();">
+        <tr class="row1">
+            <td>
+                <span class="title">在线购物取货机</span>
+            </td>
+            <td>
+                <span class="glyphicon glyphicon-menu-left back" aria-hidden="true" ourpalm-goto="#/order"></span>
+            </td>
+        </tr>
+        <tr class="row2">
+            <td colspan="2">
+                <p class="tip">
+                    <span class="glyphicon glyphicon-ok-sign ok"></span>
+                    出货成功
+                </p>
+                <p class="msg">
+                    <b ng-show="vm.remainingSum">您的当前余额为: <b ng-bind="vm.remainingSum | toRMB"></b>元,<b
+                            ng-show="vm.cardScore">积分为: {{vm.cardScore}}</b> <br/></b>
+                    感谢您使用在线购物取货机,期待您的下次光临。
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>

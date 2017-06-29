@@ -1,0 +1,7 @@
+int dimen dp_60 0x7f040000
+int drawable ic_launcher 0x7f020000
+int id bar 0x7f060000
+int id content 0x7f060001
+int layout main 0x7f030000
+int style ccpalertdialog 0x7f050000
+int style gesture_pwd_dialog 0x7f050001

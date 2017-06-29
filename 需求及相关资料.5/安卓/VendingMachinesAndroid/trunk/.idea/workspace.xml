@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="c9ca16b3-93c8-4db5-a040-956576cef7dd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$1$2$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$1$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$1$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$3$1$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$3$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$3$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$3$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$3.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$4$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$4$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$4.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/serial/GoodsSerial.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/util/AutoUpdateHandler.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/util/AutoUpdateHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/util/Constant.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/classes/debug/com/vending/machines/util/Constant.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$10.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$11.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$12.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$13.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14$1$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14$1$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14$1$3.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14$1$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14$1$4.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14$1$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$15$1$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$15$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$15$1$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$15$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$15$1$3.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$15$1$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$15$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$15$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$15.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$16$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$16$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$16.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$17.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$3.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$4.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$5.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$6.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$7.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$8.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$9.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/activity/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$1$2$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$1$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$1$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$3$1$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$3$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$3$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$3$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$3.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$4$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$4$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$4.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/serial/GoodsSerial.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/util/AutoUpdateHandler.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/util/AutoUpdateHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/util/Constant.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental-verifier/debug/com/vending/machines/util/Constant.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_b5fd86a55b14811cb8f6023368b53d979407c687.jar" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_b5fd86a55b14811cb8f6023368b53d979407c687.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/pre-dexed/debug/fastjson-1.1.34.android_072f97e1ab6830403f06f1c9747739f5eb928b25.jar" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/pre-dexed/debug/fastjson-1.1.34.android_072f97e1ab6830403f06f1c9747739f5eb928b25.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_a043994bd46eeb817f036b6ac68ea2598d28ff2c.jar" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_a043994bd46eeb817f036b6ac68ea2598d28ff2c.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_4460822630a5f33aa10b702cf2578bf1c57eba53.jar" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_4460822630a5f33aa10b702cf2578bf1c57eba53.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/res/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$10.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$11.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$12.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$13.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14$1$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14$1$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14$1$3.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14$1$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14$1$4.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14$1$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$15$1$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$15$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$15$1$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$15$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$15$1$3.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$15$1$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$15$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$15$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$15.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$16$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$16$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$16.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$17.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$3.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$4.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$5.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$6.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$7.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$8.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$9.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/activity/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$1$2$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$1$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$1$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$2.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$3$1$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$3$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$3$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$3$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$3.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$4$1.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$4$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$4.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/serial/GoodsSerial.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/util/AutoUpdateHandler.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/util/AutoUpdateHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/util/Constant.class" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vending/machines/util/Constant.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/outputs/apk/app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/build/generated/mockable-android-22.jar" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/build/generated/mockable-android-22.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.idea/gradle.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.idea/libraries/jsbridge_1_0_4.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.idea/libraries/jsbridge_1_0_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.idea/libraries/support_v4_22_2_1.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.idea/libraries/support_v4_22_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.idea/misc.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/.idea/workspace.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/app.iml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/script/AllControllers.js" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/script/AllControllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/script/Services.js" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/script/Services.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/script/Util.js" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/script/Util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/script/index.js" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/script/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/admin_login.html" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/admin_login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/admin_setting.html" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/admin_setting.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/nowifi.html" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/nowifi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/order.html" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/order.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/outting_goods.html" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/outting_goods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/pay.html" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/pay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/take_goods.html" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/assets/debug/views/take_goods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-af.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-af.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-am.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-am.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ar.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-bg.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-bg.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ca.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ca.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-cs.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-cs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-da.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-da.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-de.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-de.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-el.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-el.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-es.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-es.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-et-rEE.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-et-rEE.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-eu-rES.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-eu-rES.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-fa.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-fa.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-fi.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-fi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-fr.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-fr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-gl-rES.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-gl-rES.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-hi.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-hi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-hr.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-hr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-hu.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-hu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-in.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-in.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-is-rIS.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-is-rIS.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-it.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-it.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-iw.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-iw.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ja.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ja.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-km-rKH.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-km-rKH.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ko.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ko.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-land.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-land.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-lt.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-lt.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-lv.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-lv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-my-rMM.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-my-rMM.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-nb.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-nb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-nl.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-nl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-pl.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-pl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-port.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-port.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-pt.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-pt.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ro.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ro.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ru.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ru.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-si-rLK.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-si-rLK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sk.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sk.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sl.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sr.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sv.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sw.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sw.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-te-rIN.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-te-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-th.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-th.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-tl.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-tl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-tr.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-tr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-uk.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-uk.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v12.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v12.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v14.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v17.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v18.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v18.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v21.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-v21.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-vi.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-vi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w500dp-v13.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w500dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w720dp-v13.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w720dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-xlarge-land-v4.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-xlarge-land-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-zu.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values-zu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/anim.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/color-v11.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/color-v11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/color.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/drawable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/blame/res/debug/single/menu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugAndroidTestShaders/merger.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugAndroidTestShaders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/instant-run-support/debug/manifest.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/src/main/assets/script/AllControllers.js" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/src/main/assets/script/AllControllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/src/main/assets/script/Services.js" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/src/main/assets/script/Services.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/app/src/main/java/com/vending/machines/util/Constant.java" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/app/src/main/java/com/vending/machines/util/Constant.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachinesAndroid/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/VendingMachinesAndroid/build/intermediates/dex-cache/cache.xml" />
+    </list>
+    <ignored path="trunk.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="trunk" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9ca16b3-93c8-4db5-a040-956576cef7dd" name="Default" comment="" />
+      <created>1474427222325</created>
+      <option name="number" value="Default" />
+      <updated>1474427222325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="735" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

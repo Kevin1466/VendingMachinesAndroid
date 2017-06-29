@@ -1,0 +1,114 @@
+.ourpalm-input-focus-mask {
+    z-index: 999;
+    position: fixed;
+    top: 50px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    background-color: #2b2b2b;
+    filter: alpha(opacity=70);
+    -moz-opacity: 0.7;
+    -khtml-opacity: 0.7;
+    opacity: 0.7;
+}
+
+.ourpalm-input-focus {
+    position: fixed !important;
+    top: 0px !important;
+    left: 0px !important;
+    width: 90% !important;
+    height: 50px !important;
+    background: #ffffff !important;
+    text-align: center !important;
+    z-index: 10000 !important;
+    font-size: 22px !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important;
+    border: 0px !important;
+}
+
+.ourpalm-input-focus-btn {
+    position: fixed;
+    background-color: #DD0a17;
+    color: #ffffff;
+    font-size: 16px;
+    top: 0px;
+    right: 0px;
+    width: 10%;
+    height: 50px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    z-index: 10000;
+}
+
+.ourpalm-toast {
+    position: fixed;
+    bottom: 25%;
+    left: 50%;
+    background-color: #000000;
+    padding: 15px 25px;
+    transform: translate(-50%, -50%);
+    -khtml-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-size: 24px;
+    border-radius: 15px;
+    z-index: 100;
+}
+
+.ourpalm-toast.ng-move,
+.ourpalm-toast.ng-enter,
+.ourpalm-toast.ng-leave {
+    transition: all linear 0.1s;
+}
+
+.ourpalm-toast.ng-leave.ng-leave-active,
+.ourpalm-toast.ng-move,
+.ourpalm-toast.ng-enter {
+    bottom: -10%;
+}
+
+.ourpalm-toast.ng-leave,
+.ourpalm-toast.ng-move.ng-move-active,
+.ourpalm-toast.ng-enter.ng-enter-active {
+    bottom: 25%;
+}
+
+@-webkit-keyframes ourpalm-shake {
+    0%, 100% {
+        -webkit-transform: translateX(0);
+    }
+    10%, 30%, 50%, 70%, 90% {
+        -webkit-transform: translateX(-8px);
+    }
+    20%, 40%, 60%, 80% {
+        -webkit-transform: translateX(8px);
+    }
+}
+
+@-moz-keyframes ourpalm-shake {
+    0%, 100% {
+        -moz-transform: translateX(0);
+    }
+    10%, 30%, 50%, 70%, 90% {
+        -moz-transform: translateX(-8px);
+    }
+    20%, 40%, 60%, 80% {
+        -moz-transform: translateX(8px);
+    }
+}
+
+.ourpalm-shake {
+    -webkit-animation-name: ourpalm-shake;
+    -webkit-animation-duration: 0.8s;
+    -moz--name: ourpalm-shake;
+    -moz-animation-duration: 0.8s;
+}

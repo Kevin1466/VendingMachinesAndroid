@@ -1,0 +1,75 @@
+<div class="fullscreen" ng-controller="OrderController as vm" ng-click="vm.gotoIndexView();">
+    <table class="order-module" ourpalm-touch-delay="vm.delay();" ourpalm-touch-delay-times="90">
+        <tr class="row1">
+            <td colspan="2" ourpalm-long-touch="vm.longTouchEvent();" ourpalm-long-touch-times="8">
+                <span class="title">在线购物取货机</span>
+            </td>
+            <td>
+                <!--<a ourpalm-goto="#/take_goods">-->
+                    <!--<button class="right">取货</button>-->
+                <!--</a>-->
+            </td>
+        </tr>
+        <tr class="row2">
+            <td>
+                <div class="goods">
+                    <img ng-src="{{vm.goodsList[0].detailImagesPath}}">
+                    <p class="name" ng-bind="vm.goodsList[0].desc">优质大米</p>
+                    <p class="price"><span style="TEXT-DECORATION: line-through" ng-bind="vm.goodsList[0].deviceShowP | toRMB"></span>
+                        <b ng-bind="vm.goodsList[0].price | toRMB"></b>元/份</p>
+                    <p class="count">
+                        <span class="{{vm.index == '1' ? 'checked': ''}}" ng-touchstart="vm.selectGoods(1,0,0);"><b
+                                ng-bind="vm.goodsList[0].goodsNumOptions[0]"></b>份</span>
+                        <span class="{{vm.index == '2' ? 'checked': ''}}" ng-touchstart="vm.selectGoods(2,0,1);"><b
+                                ng-bind="vm.goodsList[0].goodsNumOptions[1]"></b>份</span>
+                        <span class="{{vm.index == '3' ? 'checked': ''}}" ng-touchstart="vm.selectGoods(3,0,2);"><b
+                                ng-bind="vm.goodsList[0].goodsNumOptions[2]"></b>份</span>
+                    </p>
+                </div>
+            </td>
+            <td>
+                <div class="goods">
+                    <img ng-src="{{vm.goodsList[1].detailImagesPath}}">
+                    <p class="name" ng-bind="vm.goodsList[1].desc">优质大米</p>
+                    <p class="price"><span style="TEXT-DECORATION: line-through" ng-bind="vm.goodsList[1].deviceShowP | toRMB"></span>
+                        <b ng-bind="vm.goodsList[1].price | toRMB"></b>元/份</p>
+                    <p class="count">
+                        <span class="{{vm.index == '4' ? 'checked': ''}}" ng-touchstart="vm.selectGoods(4,1,0);"><b
+                                ng-bind="vm.goodsList[1].goodsNumOptions[0]"></b>份</span>
+                        <span class="{{vm.index == '5' ? 'checked': ''}}" ng-touchstart="vm.selectGoods(5,1,1);"><b
+                                ng-bind="vm.goodsList[1].goodsNumOptions[1]"></b>份</span>
+                        <span class="{{vm.index == '6' ? 'checked': ''}}" ng-touchstart="vm.selectGoods(6,1,2);"><b
+                                ng-bind="vm.goodsList[1].goodsNumOptions[2]"></b>份</span>
+                    </p>
+                </div>
+            </td>
+            <td>
+                <div class="goods">
+                    <img ng-src="{{vm.goodsList[2].detailImagesPath}}">
+                    <p class="name" ng-bind="vm.goodsList[2].desc">优质大米</p>
+                    <p class="price"><span style="TEXT-DECORATION: line-through" ng-bind="vm.goodsList[2].deviceShowP | toRMB"></span>
+                        <b ng-bind="vm.goodsList[2].price | toRMB"></b>元/份</p>
+                    <p class="count">
+                        <span class="{{vm.index == '7' ? 'checked': ''}}" ng-touchstart="vm.selectGoods(7,2,0);"><b
+                                ng-bind="vm.goodsList[2].goodsNumOptions[0]"></b>份</span>
+                        <span class="{{vm.index == '8' ? 'checked': ''}}" ng-touchstart="vm.selectGoods(8,2,1);"><b
+                                ng-bind="vm.goodsList[2].goodsNumOptions[1]"></b>份</span>
+                        <span class="{{vm.index == '9' ? 'checked': ''}}" ng-touchstart="vm.selectGoods(9,2,2);"><b
+                                ng-bind="vm.goodsList[2].goodsNumOptions[2]"></b>份</span>
+                    </p>
+                </div>
+            </td>
+        </tr>
+        <tr class="row3" ng-show="vm.index != 0">
+            <td>
+                <span class="label">合计:</span>
+                <span class="money">{{vm.currentPayCount | toRMB}}元</span>
+            </td>
+            <td></td>
+            <td>
+                <button class="pay" ng-click="vm.buy();">结算</button>
+            </td>
+        </tr>
+    </table>
+
+</div>

@@ -1,0 +1,46 @@
+<div ng-controller="TakeGoodsController as vm" ourpalm-touch-delay="vm.delay();" ourpalm-touch-delay-times="120">
+    <div class="tokegoods-module" ng-show="!vm.qrcodeProgress">
+        <div class="header">
+            <span class="title" ourpalm-reload>在线购物取货机</span>
+            <span class="glyphicon glyphicon-menu-left back" aria-hidden="true" ourpalm-back></span>
+        </div>
+        <div class="container">
+            <img src="img/qrcode.png" class="qrcode" ng-click="vm.openQrcodeDevice();">
+            <div class="num">
+                <span>订单号</span>
+                <input type="text" ng-model="vm.orderNum">
+            </div>
+            <div class="code">
+                <span>取货码</span>
+                <input type="text" ng-model="vm.code">
+            </div>
+            <div class="confirm">
+                <button ng-click="vm.confirm();">确定</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="fullscreen" ng-show="vm.qrcodeProgress">
+        <table class="success-module fullscreen">
+            <tr class="row1">
+                <td>
+                    <span class="title">在线购物取货机</span>
+                </td>
+                <td>
+                <span class="glyphicon glyphicon-menu-left back" aria-hidden="true"
+                      ng-click="vm.closeQrcode();"></span>
+                </td>
+            </tr>
+            <tr class="row2">
+                <td colspan="2" class="outting">
+                    <p class="tip">
+                        <img src="img/progress.gif" width="100%" height="10px">
+                    </p>
+                    <p class="msg">
+                        请扫描您的二维码
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>

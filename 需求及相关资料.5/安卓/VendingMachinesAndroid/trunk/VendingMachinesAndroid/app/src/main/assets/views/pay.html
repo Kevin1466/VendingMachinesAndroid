@@ -1,0 +1,63 @@
+<div ng-controller="PayController as vm" ourpalm-touch-delay="vm.delay();" ourpalm-touch-delay-times="180">
+    <div class="fullscreen1" ng-show="!vm.qrcodeProgress">
+        <table class="success-module fullscreen pay-module">
+            <tr class="row1">
+                <td>
+                    <span class="title">在线购物取货机</span>
+                </td>
+                <td></td>
+                <td>
+                    <span class="glyphicon glyphicon-menu-left back" aria-hidden="true" ourpalm-back></span>
+                </td>
+            </tr>
+            <tr class="row2">
+                <td colspan="3">
+                    <p>您共消费 <b ng-bind="vm.totalPrice | toRMB" style="color:red;"></b>元,请选择支付方式</p>
+                </td>
+            </tr>
+            <tr class="row3">
+                <td><img src="img/zhifubao.png" class="{{vm.defaultPayType == '1' ? 'selected' : ''}}"
+                         ng-click="vm.selectPayType(1);"></td>
+                <td><img src="img/weixin.png" class="{{vm.defaultPayType == '2' ? 'selected' : ''}}"
+                         ng-click="vm.selectPayType(2);"></td>
+                <td><img src="img/vipcard.png" class="{{vm.defaultPayType == '3' ? 'selected' : ''}}"
+                         ng-click="vm.qrcodeVipCard();"></td>
+            </tr>
+            <tr class="row4">
+                <td colspan="3" ng-show="vm.defaultPayType == '1'"><img ng-src="{{vm.zhifubaoQrcode}}" alt=""></td>
+                <td colspan="3" ng-show="vm.defaultPayType == '2'"><img ng-src="{{vm.weixinQrcode}}" alt=""></td>
+            </tr>
+            <tr class="row4">
+                <td colspan="3">
+                    <button ng-show="vm.defaultPayType == '1'">支付宝扫描支付</button>
+                    <button ng-show="vm.defaultPayType == '2'">微信扫描支付</button>
+                    <button ng-show="vm.defaultPayType == '3'">会员卡支付</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="fullscreen" ng-show="vm.qrcodeProgress">
+        <table class="success-module fullscreen">
+            <tr class="row1">
+                <td>
+                    <span class="title">在线购物取货机</span>
+                </td>
+                <td>
+                <span class="glyphicon glyphicon-menu-left back" aria-hidden="true"
+                      ng-click="vm.closeQrcode();"></span>
+                </td>
+            </tr>
+            <tr class="row2">
+                <td colspan="2" class="outting">
+                    <p class="tip">
+                        <img src="img/progress.gif" width="100%" height="10px">
+                    </p>
+                    <p class="msg">
+                        请扫描您的二维码
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>

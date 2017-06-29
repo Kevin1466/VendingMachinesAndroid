@@ -1,0 +1,622 @@
+*, body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.fullscreen {
+    background-color: #eeeeee;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* order */
+.order-module {
+    width: 100%;
+    height: 100%;
+}
+
+.order-module .row1, .order-module .row3 {
+    background-color: #DD0a17;
+    height: 10%;
+}
+
+.order-module .title {
+    padding-left: 80px;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.order-module .row1 td:last-child, .order-module .row3 td:last-child {
+    text-align: right;
+}
+
+.order-module .row1 button {
+    border: 0px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #ffffff;
+    color: #DD0a17;
+    margin: 5px 20px;
+    font-size: 28px;
+}
+
+.order-module .row2 td {
+    padding: 0px;
+    margin: 0px;
+}
+
+.order-module .row3 {
+    background-color: #ffffff;
+    height: 10%;
+}
+
+.order-module .row3 .label {
+    padding-left: 60px;
+    color: #000;
+    font-size: 24px;
+}
+
+.order-module .row3 .money {
+    color: #DD0a17;
+    font-size: 26px;
+}
+
+.order-module .row3 .pay {
+    background-color: #DD0a17;
+    color: #ffffff;
+    border: 0px;
+    font-size: 28px;
+    height: 100%;
+    padding: 0px 26px;
+}
+
+.order-module .goods {
+    height: 80%;
+    background-color: #ffffff;
+    margin: 0px 10px;
+}
+
+.order-module .goods img {
+    width: 100%;
+    height: 50%;
+    max-height: 200px;
+}
+
+.order-module .goods .name {
+    font-size: 26px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.order-module .goods .price {
+    font-size: 22px;
+    padding-top: 0px;
+    padding-left: 36px;
+    color: #000;
+}
+
+.order-module .goods .count {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.order-module .goods .count span {
+    /*border: 1px solid #818181;*/
+    /*padding: 10px 20px;*/
+    border-radius: 4px;
+    font-size: 28px;
+    color: #000;
+    margin: 0px 10px;
+    display: inline-block;
+
+    width: 75px;
+    height: 45px;
+    line-height: 45px;
+    background-color: #dddddd;
+    /*background-image: url("../img/border_5.png");*/
+}
+
+.order-module .goods .count .checked {
+    border: 0px;
+    background-color: #DD0a17;
+    color: #ffffff;
+    background-image: none;
+}
+
+/* success */
+.success-module .row1 {
+    background-color: #DD0a17;
+    height: 10%;
+}
+
+.success-module .title {
+    padding-left: 80px;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.success-module .row1 td:last-child {
+    text-align: right;
+}
+
+.success-module .back {
+    color: #ffffff;
+    font-size: 36px;
+    padding: 0px 20px;
+}
+
+.success-module .row2 {
+    vertical-align: top;
+    text-align: center;
+}
+
+.success-module .ok {
+    color: green;
+    font-size: 60px;
+}
+
+.success-module .error {
+    color: #DD0a17;
+    font-size: 60px;
+}
+
+.success-module .no-goods {
+    color: #feca49;
+    font-size: 60px;
+}
+
+.success-module .row2 .tip {
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+.success-module .row2 .msg {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.success-module .row2 .progress {
+    height: 10px;
+    text-align: center;
+}
+
+.success-module .outting {
+    text-align: center;
+    padding: 0px 200px;
+}
+
+.success-module .outting .msg {
+    margin-top: 70px;
+    font-size: 26px;
+}
+
+.pay-module .row2 {
+    text-align: left;
+    margin: 50px 30px;
+    font-size: 24px;
+}
+
+.pay-module .row2 p {
+    margin: 30px 0px 0px 50px;
+}
+
+.pay-module .row3 td {
+    text-align: center;
+}
+
+.pay-module .row3 td img {
+    border: 1px solid #d7d7d7;
+    width: 250px;
+    height: 120px;
+}
+
+.pay-module .row3 img.selected {
+    border: 2px solid #EF8586;
+}
+
+.pay-module .row4 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.pay-module .row4 img {
+    width: 160px;
+    height: 160px;
+}
+
+.pay-module .row4 button {
+    border: 1px solid #E1111b;
+    border-radius: 50px;
+    padding: 15px 20px;
+    font-size: 30px;
+    color: #E1111b;
+    margin-bottom: 20px;
+    background-color: #eeeeee;
+}
+
+.tokegoods-module {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/rice.png");
+    background-size: cover;
+}
+
+.takegoods-module .container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -15%;
+    margin-left: -30%;
+    border: 1px solid #919190;
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+    background-color: #ffffff;
+}
+
+.tokegoods-module .header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #DD0a17;
+}
+
+.tokegoods-module .header .title {
+    color: #ffffff;
+    font-size: 26px;
+    padding-left: 80px;
+}
+
+.tokegoods-module .header .back {
+    float: right;
+    color: #ffffff;
+    line-height: 50px;
+    font-size: 36px;
+    padding: 0px 20px;
+}
+
+.tokegoods-module .container {
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    border: 1px solid #747474;
+    border-radius: 15px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+.tokegoods-module .num, .tokegoods-module .code {
+    padding: 50px 60px 0px;
+}
+
+.tokegoods-module .num span, .tokegoods-module .code span {
+    font-size: 25px;
+    padding-right: 30px;
+    margin-top: 2px;
+    color: #383838;
+}
+
+.tokegoods-module .num input, .tokegoods-module .code input {
+    width: 230px;
+    height: 40px;
+    line-height: 40px;
+    /*border: 1px solid #b0b0b0;*/
+    /*border-radius: 5px;*/
+
+    border: 0px;
+    padding-left: 5px;
+    background-image: url("../img/border_1.png");
+}
+
+.tokegoods-module .confirm button {
+    /*padding: 10px 50px;*/
+    /*border: 1px solid #DD0a17;*/
+    /*border-radius: 25px;*/
+    color: #DD0a17;
+    background-color: #ffffff;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 180px;
+
+    width: 140px;
+    height: 50px;
+    border: 0px;
+    background-image: url("../img/border_2.png");
+}
+
+.tokegoods-module .qrcode {
+    position: absolute;
+    right: 0;
+    width: 100px;
+    height: 100px;
+}
+
+.adminlogin-module {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.takegoods-module .container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -15%;
+    margin-left: -30%;
+    border: 1px solid #919190;
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+    background-color: #ffffff;
+}
+
+.adminlogin-module .header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #DD0a17;
+}
+
+.adminlogin-module .header .title {
+    color: #ffffff;
+    font-size: 26px;
+    padding-left: 80px;
+}
+
+.adminlogin-module .header .back {
+    float: right;
+    color: #ffffff;
+    line-height: 50px;
+    font-size: 36px;
+    padding: 0px 20px;
+}
+
+.adminlogin-module .container {
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    /*border: 1px solid #2b2b2b;*/
+    border-radius: 15px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background-color: #ffffff;
+
+    background-image: url("../img/border_3.png");
+}
+
+.adminlogin-module .num, .adminlogin-module .code {
+    padding: 50px 60px 0px;
+}
+
+.adminlogin-module .num span, .adminlogin-module .code span {
+    font-size: 25px;
+    padding-right: 30px;
+    margin-top: 2px;
+    color: #383838;
+}
+
+.adminlogin-module .num input, .adminlogin-module .code input {
+    height: 40px;
+    width: 230px;
+    /*border: 1px solid #2b2b2b;*/
+    margin-bottom: 5px;
+    /*border-radius: 5px;*/
+    font-size: 24px;
+    border: 0px;
+    background-image: url("../img/border_1.png");
+    padding-left: 5px;
+}
+
+.adminlogin-module .code input {
+    margin-left: 2px;
+}
+
+.adminlogin-module .confirm button {
+    /*margin-left: 180px;*/
+    /*padding: 10px 30px;*/
+    /*border: 1px solid #DD0a17;*/
+    /*border-radius: 25px;*/
+    /*background-color: #ffffff;*/
+    color: #DD0a17;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 180px;
+    width: 140px;
+    height: 50px;
+    border: 0px;
+    background-color: #FFFFFF;
+    background-image: url("../img/border_2.png");
+}
+
+.adminlogin-module .qrcode {
+    position: absolute;
+    right: 0;
+    width: 100px;
+    height: 100px;
+}
+
+.adminsetting-module {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.adminsetting-module .header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #DD0a17;
+}
+
+.adminsetting-module .header .title {
+    color: #ffffff;
+    font-size: 26px;
+    padding-left: 80px;
+}
+
+.adminsetting-module .header .back {
+    float: right;
+    color: #ffffff;
+    line-height: 50px;
+    font-size: 36px;
+    padding: 0px 20px;
+}
+
+.adminsetting-module .container {
+    position: absolute;
+    height: 300px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    right: 0;
+    margin: auto;
+}
+
+.adminsetting-module .container {
+    padding-top: 100px;
+}
+
+.adminsetting-module .container .btn1 {
+    /*border: 1px solid #000;*/
+    width: 200px;
+    height: 50px;
+    background-color: #ffffff;
+    font-size: 20px;
+    margin: 5px;
+
+    border: 0px;
+    background-image: url("../img/border_4.png");
+}
+
+.adminsetting-module .container .btn2 {
+    /*border: 1px solid #000;*/
+    width: 200px;
+    height: 50px;
+    background-color: #ffffff;
+    font-size: 20px;
+
+    border: 0px;
+    background-image: url("../img/border_4.png");
+}
+
+.settingimei-module {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+.settingimei-module .header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #DD0a17;
+}
+
+.settingimei-module .header .title {
+    color: #ffffff;
+    font-size: 26px;
+    padding-left: 80px;
+}
+
+.settingimei-module .header .back {
+    float: right;
+    color: #ffffff;
+    line-height: 50px;
+    font-size: 36px;
+    padding: 0px 20px;
+}
+
+.settingimei-module .container {
+    position: absolute;
+    height: 350px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    right: 0;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 0px;
+}
+
+.settingimei-module .container input {
+    width: 750px;
+    /*border: 1px solid #DD0a17;*/
+    border-radius: 5px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 22px;
+
+    border: 0px;
+    background-image: url("../img/border_6.png");
+}
+
+.settingimei-module .container button {
+    margin-top: 40px;
+    /*border: 1px solid #DD0a17;*/
+    /*border-radius: 20px;*/
+    /*padding: 10px 20px;*/
+    background-color: #ffffff;
+
+    border: 0px;
+    width: 140px;
+    height: 50px;
+    font-size: 24px;
+    background-image: url("../img/border_2.png");
+}
+
+.carousel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.carousel img {
+    height: 100% !important;
+}
+
+.nowifi {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

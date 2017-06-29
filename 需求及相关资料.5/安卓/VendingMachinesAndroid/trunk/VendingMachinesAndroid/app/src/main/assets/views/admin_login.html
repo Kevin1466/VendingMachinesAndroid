@@ -1,0 +1,19 @@
+<div class="adminlogin-module" ng-controller="AdminLoginController as vm">
+    <div class="header">
+        <span class="title">在线购物取货机</span>
+        <span class="glyphicon glyphicon-menu-left back" aria-hidden="true" ng-click="vm.logout();"></span>
+    </div>
+    <div class="container">
+        <!--<div class="num">-->
+            <!--<span>用户名</span>-->
+            <!--<input type="text" ng-model="vm.username">-->
+        <!--</div>-->
+        <div class="code">
+            <span>密&nbsp;&nbsp;&nbsp;码</span>
+            <input type="text" ng-model="vm.password">
+        </div>
+        <div class="confirm">
+            <button ng-click="vm.login();">登录</button>
+        </div>
+    </div>
+</div>
